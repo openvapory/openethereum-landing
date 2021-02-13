@@ -1,8 +1,8 @@
-# [Open Ethereum website](https://open-sesame-eth.netlify.app/)
+# [Open Vapory website](https://open.vapory.org/)
 
-The official website for Open Ethereum, a fast and feature-rich ethereum client.
+The official website for Open Vapory, a fast and feature-rich vapory client.
 
-![Open Ethereum](/static/open-ethereum-preview.png)
+![Open Vapory](/static/open-ethereum-preview.png)
 
 ## Contribution
 
